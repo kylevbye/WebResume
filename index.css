@@ -1,0 +1,27 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+#personalInfo{
+    text-align: center;
+}
+
+#personalInfoList {
+    text-align: center;
+    list-style-type: circle;
+}
+
+#personalInfoList li {
+    display: inline-block;
+    list-style-type: circle;
+    padding-right: 20px;
+    text-align: center;
+}
+
+/*#personalInfoList li:first-child {
+    list-style-type: none;
+}
+#personalInfoList li:nth-child(2) {
+    list-style-type: none;
+}*/
