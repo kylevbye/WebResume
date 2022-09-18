@@ -8,6 +8,7 @@ h1 {
 }
 
 #personalInfoList {
+    display: block;
     text-align: center;
     list-style-type: circle;
 }
@@ -17,6 +18,16 @@ h1 {
     list-style-type: circle;
     padding-right: 20px;
     text-align: center;
+}
+
+ul {
+    display: inline-block;
+    list-style-position: inside;
+}
+
+ul li{
+    text-align: left;
+    /*padding-left: 48px;*/
 }
 
 /*#personalInfoList li:first-child {
