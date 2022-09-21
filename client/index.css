@@ -13,6 +13,10 @@ h1 {
     list-style-type: circle;
 }
 
+.education {
+    text-indent: 40px;
+}
+
 #personalInfoList li {
     display: inline-block;
     list-style-type: circle;
@@ -27,12 +31,4 @@ ul {
 
 ul li{
     text-align: left;
-    /*padding-left: 48px;*/
 }
-
-/*#personalInfoList li:first-child {
-    list-style-type: none;
-}
-#personalInfoList li:nth-child(2) {
-    list-style-type: none;
-}*/
