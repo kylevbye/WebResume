@@ -1,8 +1,8 @@
 # WebResume
 
-Name: Kyle Bye
-Project: Web Resume
-Email: kylevbye@lewisu.edu
+Name: Kyle Bye\
+Project: Web Resume\
+Email: kylevbye@lewisu.edu\
 
 Used Azure Template from Eric Pogue
 https://github.com/EricJPogue/node-js-express-and-azure-template
