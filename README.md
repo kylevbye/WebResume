@@ -3,7 +3,8 @@
 Name: Kyle Bye
 Project: Web Resume
 
-All content is original.
+Used Azure Template from Eric Pogue
+https://github.com/EricJPogue/node-js-express-and-azure-template
 
 Build instructions:
 - Locally: Open the folder in the client folder and open "index.html"
