@@ -46,3 +46,76 @@ ul {
 ul li{
     text-align: left;
 }
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.projectImage {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border-radius: 20px 20px 20px 20px;
+    border-color: red;
+    border-width: 5px;
+}
+
+#projectSection {
+    position: relative;
+    width: 98%;
+    height: fit-content;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+#innerProjectSection {
+    position: relative;
+    left: 40px;
+}
+
+.twoSidedSection {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+#experienceSection {
+    position: relative;
+    width: 49%;
+}
+
+#educationSection {
+    position: relative;
+    width: 49%;
+}
+
+.section {
+    position: relative;
+    width: 98%;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.techList {
+    margin: 0 auto;
+}
+
+#wendysLogo {
+    position: relative;
+    width: 20%;
+    height: auto;
+    margin: 0 auto;
+    justify-self: center;
+}
+
+#gradImg {
+    position: relative;
+    width: 20%;
+    height: auto;
+    margin: 0 auto;
+    justify-self: center;
+}
+
